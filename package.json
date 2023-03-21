@@ -1,6 +1,6 @@
 {
   "name": "popup-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple popup alert in js",
   "main": "index.js",
   "scripts": {
